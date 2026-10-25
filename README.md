@@ -1,0 +1,3 @@
+# Agentic-AI-webinar
+
+FROM AI ->LLM-> TYPES AND CATEGORY-> GEN AI -> AI AGENTS->AGENTIC AI 
